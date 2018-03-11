@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  color: #F7F9F9;
+}
+
+p {
+  display: inline;
+  padding: 0.5%;
+  background-color: white;
+}
+
+.info {
+  text-align: center;
+}
